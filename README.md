@@ -1,1 +1,1 @@
-# caltech101dataset using resnet50 and CNN layers
+# caltech101 dataset using resnet50 and CNN layers
